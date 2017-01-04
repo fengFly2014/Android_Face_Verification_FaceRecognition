@@ -1,7 +1,7 @@
 # Android_Face_Verification-
 face verification used in android which is simple to use with only three functions 
 
-训练库及Demo下载地址：https://yunpan.cn/cSBvxCEZuAFTq  访问密码 6785
+训练库及Demo下载地址：http://pan.baidu.com/s/1qYSyyrq
 
 说明：
 1、此版本为android版本人脸识别 ，其中FaceData文件夹为训练库，Android_Face_Verification为接口调用Demo，依赖的so库在libs文件夹中。
