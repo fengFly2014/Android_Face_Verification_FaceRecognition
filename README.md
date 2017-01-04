@@ -10,4 +10,4 @@ face verification used in android which is simple to use with only three functio
 4、比对时间：1s-2s，不同性能的手机略有差别。
 5、在被拍照人配合的情况下可取得较好效果，支持身份证芯片照和现场照比对，初步测试等错误率情况下识别率在93%左右。
 6、初始化略慢，后期可解决。因只需初始化一次，基本不影响实际使用。
-7、如有疑问，请联系zhangchuanfeng2008@163.com。
+7、如有疑问，请联系zhangchuanfeng2008@163.com。 如果觉得还可以，请Star支持一下，多谢！
